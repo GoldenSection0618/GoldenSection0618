@@ -27,7 +27,6 @@ Additional background: robotics simulation, GPU acceleration, radar / sensor sig
 | Medical AI | NIPT Timing Optimization and Aneuploidy Screening | Interpretable clinical data modeling, optimization, imbalanced classification, SHAP-based analysis |
 | Biomedical Image Analysis | [cellseg-robustness-diagnostic](https://github.com/GoldenSection0618/cellseg-robustness-diagnostic) | Segmentation robustness diagnostics, baseline evaluation, failure-case analysis, reproducible benchmark documentation |
 | Financial ML | [lob-representation-diagnostic](https://github.com/GoldenSection0618/lob-representation-diagnostic) | Representation diagnostics, chronological-vs-random split comparison, leakage-aware evaluation |
-| Reproducible ML | [HGSFusion](https://github.com/GoldenSection0618/HGSFusion) | Environment repair, data-contract checks, checkpoint evaluation, training dry-runs, runtime diagnostics |
 
 ---
 
