@@ -22,4 +22,4 @@ Studying caching, I/O, and scheduling for modern LLM serving systems.
 
 ## Technical Stack
 
-Python · PyTorch · Transformers · vLLM · SGLang · Linux · Slurm · Git
+PyTorch · Transformers · vLLM · SGLang · Slurm · OpenCL
